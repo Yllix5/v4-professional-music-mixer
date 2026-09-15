@@ -1,4 +1,3 @@
-@'
 # V4 Professional Music Mixer
 
 A professional CLI music mixer designed to create long-form continuous mixes from FLAC/WAV files using automated audio analysis, intelligent transition planning, DSP processing, and lossless rendering.
